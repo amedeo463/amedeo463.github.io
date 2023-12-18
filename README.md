@@ -4,3 +4,5 @@
 Or perhaps [see my chaotic virus](https://github.com/amedeo463/Tab-d)?\
 I even have an italian translation of SMB at [this link](https://github.com/amedeo463/supermariobrositalian),\
 and a stress tester at [this link](https://github.com/amedeo463/stressTester)!
+
+[This link takes to a school project, feel free to click it](https://amedeo463.github.io/tombola/intex.html)
