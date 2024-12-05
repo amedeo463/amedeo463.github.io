@@ -1,5 +1,5 @@
 {
-  [
+  {
     "name":"test",
     "description":"test",
     "URL":"example.com"
@@ -9,5 +9,5 @@
         "c",
         "test"
     ]
-  ]
+  }
 }
