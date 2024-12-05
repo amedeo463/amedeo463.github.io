@@ -1,2 +1,13 @@
->> TEST SOURCE. <<
->> FOR TESTING PURPORSES, OF COURSE. <<
+{
+  [
+    "name":"test",
+    "description":"test",
+    "URL":"example.com"
+    "tags":[
+        "a",
+        "b",
+        "c",
+        "test"
+    ]
+  ]
+}
