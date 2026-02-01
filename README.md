@@ -8,4 +8,5 @@ and a stress tester at [this link](https://github.com/amedeo463/stressTester)! (
 <s>Also, I've created [PinsaScript and PScrInt](https://github.com/amedeo463/PScrInt).</s><br>Nevermind I deprecated that one, check [PinScreen](https://github.com/amedeo463/PinScreen) instead.
 
 
-[This link takes to a school project, feel free to click it](https://amedeo463.github.io/tombola/index.html)
+<s>[This link takes to a school project, feel free to click it](https://amedeo463.github.io/tombola/index.html)</s>
+No, nevermind, decided it had to be deleted (my real name was there)
